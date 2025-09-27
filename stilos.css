@@ -1,0 +1,48 @@
+#fotocara{
+    width: 63%;
+    height: 50%;
+    border-radius: 50%;
+     border-color: hwb(0 100% 0%);
+    border-style: solid;
+    border-width: 7px;
+}
+body{
+    background-color: lch(78.54% 2.22 19.34);
+    margin: 0;
+    padding: 0;
+}
+.presentacion{
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    text-align: left;
+    background-color: lch(100% 0.01 296.81);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2%; 
+}
+
+.center{
+    text-align: center;
+}
+#foto{
+    text-align: center;
+        background-color: lch(78.54% 2.22 19.34);
+        padding: 20%;    
+}
+.derecha{
+    border-color: rgb(240, 5, 5);
+    border-style: solid;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2%;
+    text-align: left;
+}
+#nombre{
+    font-size: 30px;
+}
+.contenedor{
+  display: grid;
+  grid-template-columns: 1fr 2fr; /* Izquierda 1 parte, derecha 2 partes */
+  max-width: 1000px;
+  margin: auto;
+  background: rgb(255, 255, 255);
+  
+}

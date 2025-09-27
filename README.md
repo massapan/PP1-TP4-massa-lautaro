@@ -1,0 +1,1 @@
+Materia: Practicas Profeionalizantes 1 Profesores: Lucas Cardozo Alumno: Lautaro Massa Trabajo Practico N4. El objetivo de este trabajo práctico es aplicar los conocimientos de maquetado web utilizando HTML y CSS para construir un Currículum Vitae digital.
